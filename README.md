@@ -18,3 +18,7 @@ The resulting models will be evaluated using the following evaluation parameters
 Here, confusion matrix will be utilized to explain the performance of the algorithms. 
 
 At last, conclusions and recommendations will be given based on the results and analysis.
+
+Visit the following link to get a lite version of the report.
+
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
