@@ -21,4 +21,4 @@ At last, conclusions and recommendations will be given based on the results and 
 
 Visit the following link to get a lite version of the report.
 
-<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+<a href="https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/322a5773-ae46-43a5-9a30-13c307c2af88/view?access_token=1ec5f5205b090240498781a4480faaf0e560b61b26da7873721f6b4656af6429">Credit Card Fraud Analysis Report</a>
