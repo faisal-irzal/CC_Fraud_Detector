@@ -1,5 +1,7 @@
 # Credit Card Fraud Detector 
 
+![fraud_detect](https://user-images.githubusercontent.com/76395229/107957689-3edcaf00-6fa1-11eb-8c71-a9ffd165dcd7.png)
+
 A variety of machine learning algorithms are used to detect credit card fraudulent transactions. Here, dataset which is downloaded from Kaggle.com, consists of 284,807 rows and 31 columns. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 
 Due to high number of features, strategy is made to reduce the feature by checking correlation of each feature to the target label 'Fraud'. Features which have strong correlation with target label are selected for further investigation. Furthermore, probability density function of the selected features are investigated for all target classes using Kernel Density Estimate plot. 
